@@ -1,0 +1,11 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <ReferenceAssembly PathName="d:\demos\cats\cats\cats\bin\debug\cats.dll" HashGuid="ca9afa78-02c5-28a8-8212-341b2d3795bb" />
+    <ReferenceAssembly PathName="d:\demos\cats\packages\newtonsoft.json.10.0.2\lib\portable-net45+win8+wpa81+wp8\newtonsoft.json.dll" HashGuid="dc6b12dd-6e29-692e-3aab-9db010480a7e" />
+    <ReferenceAssembly PathName="d:\demos\cats\packages\xamarin.forms.2.3.5.235-pre2\lib\wpa81\xamarin.forms.core.dll" HashGuid="1a69ae99-3518-0dca-bb16-4972e63fb212" />
+    <ReferenceAssembly PathName="d:\demos\cats\packages\xamarin.forms.2.3.5.235-pre2\lib\wpa81\xamarin.forms.platform.dll" HashGuid="6b938cd4-44c0-2618-7eb6-4caa3f482076" />
+    <ReferenceAssembly PathName="d:\demos\cats\packages\xamarin.forms.2.3.5.235-pre2\lib\wpa81\xamarin.forms.platform.winrt.dll" HashGuid="cb71eda0-05db-e4ab-8c72-447bf4f3483e" />
+    <ReferenceAssembly PathName="d:\demos\cats\packages\xamarin.forms.2.3.5.235-pre2\lib\wpa81\xamarin.forms.platform.winrt.phone.dll" HashGuid="53a9e4af-538e-1bae-ce9d-4c138447fb3a" />
+    <ReferenceAssembly PathName="d:\demos\cats\packages\xamarin.forms.2.3.5.235-pre2\lib\wpa81\xamarin.forms.xaml.dll" HashGuid="6cb15c43-0564-81b8-7bda-e200af3b830e" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

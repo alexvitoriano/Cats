@@ -1,0 +1,2 @@
+D:\demos\Cats\Cats\Cats.Windows\Cats.Windows.csproj;neutral
+D:\demos\Cats\Cats\Cats\Cats.csproj;neutral
